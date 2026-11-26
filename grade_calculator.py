@@ -10,7 +10,7 @@ def calculate_grade(marks):
     elif average >= 40:
         return "D"
     else:
-        return "Needs Improvement"
+        return "Try Again"
 
 
 
