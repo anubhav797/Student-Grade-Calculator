@@ -10,7 +10,7 @@ def calculate_grade(marks):
     elif average >= 40:
         return "D"
     else:
-        return "F"
+        return "Needs Improvement"
 
 
 marks = [85, 90, 78, 92]
