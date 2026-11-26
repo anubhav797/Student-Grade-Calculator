@@ -13,6 +13,7 @@ def calculate_grade(marks):
         return "Needs Improvement"
 
 
+
 marks = [85, 90, 78, 92]
 
 print("Average:", sum(marks) / len(marks))
